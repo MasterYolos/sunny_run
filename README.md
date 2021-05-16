@@ -1,5 +1,6 @@
 # sunny_run
 自动阳光长跑脚本  
+依赖(python3 request)
 1.获取IEMI  
 2.填写IEMI  
 3填写邮箱码  
